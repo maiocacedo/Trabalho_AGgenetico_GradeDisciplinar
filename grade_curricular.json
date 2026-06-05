@@ -1,0 +1,372 @@
+[
+  {
+    "codigo": "CC1AED1",
+    "nome": "Algoritmos e Estrutura de Dados I",
+    "periodo": 1,
+    "aulas_semanais": 6,
+    "creditos_ajustados": 6,
+    "horarios": 3,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "CC1ICC",
+    "nome": "Introdução à Ciência da Computação",
+    "periodo": 1,
+    "aulas_semanais": 3,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "CC1MBD",
+    "nome": "Modelagem de Banco de Dados",
+    "periodo": 1,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "ENADE.I",
+    "nome": "Enade Ingressante",
+    "periodo": 1,
+    "aulas_semanais": 0,
+    "creditos_ajustados": 0,
+    "horarios": 0,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "HU1LA",
+    "nome": "Linguagem Acadêmica",
+    "periodo": 1,
+    "aulas_semanais": 3,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "MA1FM",
+    "nome": "Fundamentos de Matemática",
+    "periodo": 1,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "MA1LM",
+    "nome": "Lógica Matemática",
+    "periodo": 1,
+    "aulas_semanais": 3,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "CC2AED2",
+    "nome": "Algoritmos e Estrutura de Dados II",
+    "periodo": 2,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["CC1AED1"],
+    "optativa": false
+  },
+  {
+    "codigo": "CC2CLD",
+    "nome": "Circuitos Lógicos Digitais",
+    "periodo": 2,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["MA1LM"],
+    "optativa": false
+  },
+  {
+    "codigo": "CC2ER",
+    "nome": "Engenharia de Requisitos",
+    "periodo": 2,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "CC2POO",
+    "nome": "Programação Orientada a Objetos",
+    "periodo": 2,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["CC1AED1"],
+    "optativa": false
+  },
+  {
+    "codigo": "MA2MA",
+    "nome": "Matemática Aplicada",
+    "periodo": 2,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "OPHCC",
+    "nome": "Canto Coral",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHE",
+    "nome": "Empreendedorismo",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHFE",
+    "nome": "Fundamentos da Ética",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHGIT",
+    "nome": "Gestão da Inovação e Tecnologia",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHHCA",
+    "nome": "História e Cultura Afro",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHIT1",
+    "nome": "Inglês Técnico I",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHIT2",
+    "nome": "Inglês Técnico II",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHL",
+    "nome": "Libras I",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHLG",
+    "nome": "Liderança e Gerenciamento",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHL2",
+    "nome": "Libras 2",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHMAS",
+    "nome": "Meio Ambiente e Sociedade",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHMP",
+    "nome": "Metodologia da Pesquisa",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "OPHRHL",
+    "nome": "Relações Humanas e Liderança",
+    "periodo": 2,
+    "aulas_semanais": 2,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": true
+  },
+  {
+    "codigo": "CC3AED3",
+    "nome": "Algoritmos e Estrutura de Dados III",
+    "periodo": 3,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["CC2AED2"],
+    "optativa": false
+  },
+  {
+    "codigo": "CC3AOC",
+    "nome": "Arquitetura e Organização de Computadores",
+    "periodo": 3,
+    "aulas_semanais": 6,
+    "creditos_ajustados": 6,
+    "horarios": 3,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "CC3ES",
+    "nome": "Engenharia de Software",
+    "periodo": 3,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["CC1AED1", "CC2ER"],
+    "optativa": false
+  },
+  {
+    "codigo": "CC3PI1",
+    "nome": "Projeto Integrador I: Computação e Educação",
+    "periodo": 3,
+    "aulas_semanais": 12,
+    "creditos_ajustados": 12,
+    "horarios": 6,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "MA3AL",
+    "nome": "Álgebra Linear",
+    "periodo": 3,
+    "aulas_semanais": 3,
+    "creditos_ajustados": 2,
+    "horarios": 1,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "MA3CA",
+    "nome": "Cálculo Aplicado",
+    "periodo": 3,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "CC4IHC",
+    "nome": "Interação Humano Computador",
+    "periodo": 4,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": [],
+    "optativa": false
+  },
+  {
+    "codigo": "CC4LBD",
+    "nome": "Laboratório de Banco de Dados",
+    "periodo": 4,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["CC1MBD"],
+    "optativa": false
+  },
+  {
+    "codigo": "CC4PO",
+    "nome": "Pesquisa e Ordenação",
+    "periodo": 4,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["CC3AED3", "MA1FM"],
+    "optativa": false
+  },
+  {
+    "codigo": "CC4RC",
+    "nome": "Redes de Computadores",
+    "periodo": 4,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["CC3AOC"],
+    "optativa": false
+  },
+  {
+    "codigo": "CC4SO",
+    "nome": "Sistemas Operacionais",
+    "periodo": 4,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": ["CC3AOC"],
+    "optativa": false
+  },
+  {
+    "codigo": "MA4PE",
+    "nome": "Probabilidade e Estatística",
+    "periodo": 4,
+    "aulas_semanais": 4,
+    "creditos_ajustados": 4,
+    "horarios": 2,
+    "requisitos": [],
+    "optativa": false
+  }
+]

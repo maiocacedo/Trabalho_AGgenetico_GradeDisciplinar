@@ -1,0 +1,65 @@
+Mapeamento de Horários (Slots de 0 a 39)
+Cada número representa um período de 50 minutos:
+
+SEGUNDA-FEIRA
+Slot 0: Segunda 07:30 - 08:20 (Manhã 1)
+Slot 1: Segunda 08:20 - 09:10 (Manhã 2)
+Slot 2: Segunda 09:10 - 10:00 (Manhã 3)
+Intervalo: 10:00 - 10:30 (Sem aulas)
+Intervalo Oficial: 10:30 - 11:00 (Sem aulas)
+Slot 3: Segunda 11:00 - 11:50 (Manhã 4)
+---------------------------------------
+Slot 4: Segunda 13:00 - 13:50 (Tarde 1)
+Slot 5: Segunda 13:50 - 14:40 (Tarde 2)
+Slot 6: Segunda 14:40 - 15:30 (Tarde 3)
+Intervalo Oficial: 15:30 - 16:00 (Sem aulas)
+Slot 7: Segunda 16:00 - 16:50 (Tarde 4)
+
+TERÇA-FEIRA
+Slot 8: Terça 07:30 - 08:20
+Slot 9: Terça 08:20 - 09:10
+Slot 10: Terça 09:10 - 10:00
+Slot 11: Terça 11:00 - 11:50
+Slot 12: Terça 13:00 - 13:50
+Slot 13: Terça 13:50 - 14:40
+Slot 14: Terça 14:40 - 15:30
+Slot 15: Terça 16:00 - 16:50
+
+QUARTA-FEIRA
+Slot 16: Quarta 07:30 - 08:20
+Slot 17: Quarta 08:20 - 09:10
+Slot 18: Quarta 09:10 - 10:00
+Slot 19: Quarta 11:00 - 11:50
+Slot 20: Quarta 13:00 - 13:50
+Slot 21: Quarta 13:50 - 14:40
+Slot 22: Quarta 14:40 - 15:30
+Slot 23: Quarta 16:00 - 16:50
+
+QUINTA-FEIRA
+Slot 24: Quinta 07:30 - 08:20
+Slot 25: Quinta 08:20 - 09:10
+Slot 26: Quinta 09:10 - 10:00
+Slot 27: Quinta 11:00 - 11:50
+Slot 28: Quinta 13:00 - 13:50
+Slot 29: Quinta 13:50 - 14:40
+Slot 30: Quinta 14:40 - 15:30
+Slot 31: Quinta 16:00 - 16:50
+
+SEXTA-FEIRA
+Slot 32: Sexta 07:30 - 08:20
+Slot 33: Sexta 08:20 - 09:10
+Slot 34: Sexta 09:10 - 10:00
+Slot 35: Sexta 11:00 - 11:50
+Slot 36: Sexta 13:00 - 13:50
+Slot 37: Sexta 13:50 - 14:40
+Slot 38: Sexta 14:40 - 15:30
+Slot 39: Sexta 16:00 - 16:50
+
+-------------------------------------------------------------
+Mapeamento de Aulas Duplas (slots de 50 min consecutivos no mesmo dia):
+Pares Válidos:
+- Manhã: (0, 1), (1, 2)
+- Tarde: (4, 5), (5, 6)
+No total, existem 4 pares possíveis por dia, totalizando 20 pares na semana.
+As aulas de 2 créditos (ou parcelas de 4/6/12 créditos) serão alocadas nesses pares.
+As aulas de 1 crédito (sobras de disciplinas com 3 créditos) serão alocadas individualmente em qualquer slot livre de 0 a 39.
