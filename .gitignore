@@ -1,9 +1,0 @@
-material de apoio/
-implementation_plan.md
-task.md
-walkthrough.md
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.pytest_cache/
