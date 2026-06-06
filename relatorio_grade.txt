@@ -1,51 +1,51 @@
 === RESULTADO DA OTIMIZAÇÃO ===
-Melhor Fitness Alcançado: 0.526316
+Melhor Fitness Alcançado: 0.500000
 Gerações Executadas: 800
 
 --- GRADE HORÁRIA - PERÍODO 1 ---
 Horário         | Segunda           | Terça             | Quarta            | Quinta            | Sexta            
 -------------------------------------------------------------------------------------------------------------------
-07:30 - 08:20   | ---               | ---               | CC1AED1(Alan)     | ---               | ---              
-08:20 - 09:10   | CC1AED1(Alan)     | ---               | CC1AED1(Alan)     | ---               | CC1MBD(Edgar)    
-09:10 - 10:00   | HU1LA(Ada)        | ---               | MA1LM(Carl)       | ---               | CC1MBD(Edgar)    
-11:00 - 11:50   | MA1FM(Carl)       | CC1ICC(Linus)     | ---               | ---               | ---              
+07:30 - 08:20   | ---               | ---               | CC1AED1(Leiliane) | ---               | ---              
+08:20 - 09:10   | CC1AED1(Leiliane) | ---               | MA1LM(Diego)      | ---               | ---              
+09:10 - 10:00   | CC1AED1(Leiliane) | CC1ICC(Giani)     | MA1FM(Diego)      | CC1MBD(Giani)     | ---              
+11:00 - 11:50   | MA1FM(Diego)      | ---               | ---               | CC1MBD(Giani)     | HU1LA(Vera)      
 13:00 - 13:50   | ---               | ---               | ---               | ---               | ---              
-13:50 - 14:40   | ---               | ---               | MA1FM(Carl)       | ---               | ---              
+13:50 - 14:40   | ---               | ---               | ---               | ---               | ---              
 14:40 - 15:30   | ---               | ---               | ---               | ---               | ---              
 16:00 - 16:50   | ---               | ---               | ---               | ---               | ---              
 
 --- GRADE HORÁRIA - PERÍODO 2 ---
 Horário         | Segunda           | Terça             | Quarta            | Quinta            | Sexta            
 -------------------------------------------------------------------------------------------------------------------
-07:30 - 08:20   | CC2AED2(Alan)     | MA2MA(Isaac)      | OPHMAS(Rachel)    | CC2ER(Margaret)   | ---              
-08:20 - 09:10   | CC2ER(Margaret)   | MA2MA(Isaac)      | OPHE(Steve)       | OPHMP(Margaret)   | OPHIT2(Ada)      
-09:10 - 10:00   | CC2AED2(Alan)     | CC2POO(Grace)     | OPHGIT(Steve)     | CC2POO(Grace)     | OPHCC(Ludwig) / OPHL2(Emily) / OPHRHL(Ada)
-11:00 - 11:50   | OPHIT1(Ada)       | CC2CLD(John)      | ---               | OPHLG(Nelson)     | OPHL(Emily)      
-13:00 - 13:50   | ---               | ---               | ---               | ---               | ---              
-13:50 - 14:40   | ---               | ---               | ---               | ---               | OPHFE(Socrates)  
-14:40 - 15:30   | ---               | CC2CLD(John)      | ---               | ---               | ---              
-16:00 - 16:50   | ---               | ---               | ---               | OPHHCA(Nelson)    | ---              
+07:30 - 08:20   | CC2AED2(Leiliane) | CC2POO(Giovani)   | OPHRHL(Paula)     | MA2MA(Vanderlea)  | OPHCC(Luana)     
+08:20 - 09:10   | OPHL(Paula)       | OPHE(Alexandre) / OPHMAS(Roberto) | OPHL2(Paula)      | CC2CLD(Agnaldo)   | OPHIT1(Vera)     
+09:10 - 10:00   | ---               | OPHGIT(Alexandre) | CC2POO(Giovani)   | CC2ER(Wellington) | OPHIT2(Vera)     
+11:00 - 11:50   | ---               | MA2MA(Vanderlea)  | ---               | ---               | ---              
+13:00 - 13:50   | ---               | ---               | ---               | CC2ER(Wellington) | ---              
+13:50 - 14:40   | OPHMP(Wellington) | OPHHCA(Arlete)    | ---               | ---               | OPHFE(Carlos)    
+14:40 - 15:30   | ---               | OPHLG(Arlete)     | CC2AED2(Leiliane) | ---               | ---              
+16:00 - 16:50   | ---               | CC2CLD(Agnaldo)   | ---               | ---               | ---              
 
 --- GRADE HORÁRIA - PERÍODO 3 ---
 Horário         | Segunda           | Terça             | Quarta            | Quinta            | Sexta            
 -------------------------------------------------------------------------------------------------------------------
-07:30 - 08:20   | CC3ES(Margaret)   | CC3AED3(Grace)    | ---               | ---               | CC3PI1(Linus)    
-08:20 - 09:10   | ---               | CC3AED3(Grace)    | MA3AL(Carl)       | MA3CA(Isaac)      | CC3PI1(Linus)    
-09:10 - 10:00   | CC3ES(Margaret)   | MA3CA(Isaac)      | ---               | CC3AOC(John)      | CC3PI1(Linus)    
-11:00 - 11:50   | ---               | ---               | ---               | CC3PI1(Linus)     | CC3PI1(Linus)    
-13:00 - 13:50   | ---               | ---               | ---               | ---               | ---              
+07:30 - 08:20   | CC3ES(Wellington) | CC3PI1(Giani)     | ---               | CC3AED3(Thiago)   | ---              
+08:20 - 09:10   | ---               | CC3PI1(Giani)     | ---               | MA3CA(Vanderlea)  | CC3PI1(Giani)    
+09:10 - 10:00   | ---               | CC3AED3(Thiago)   | ---               | CC3AOC(Agnaldo)   | CC3PI1(Giani)    
+11:00 - 11:50   | ---               | CC3PI1(Giani)     | MA3AL(Diego)      | CC3AOC(Agnaldo)   | CC3PI1(Giani)    
+13:00 - 13:50   | CC3ES(Wellington) | ---               | ---               | ---               | ---              
 13:50 - 14:40   | ---               | ---               | ---               | ---               | ---              
 14:40 - 15:30   | ---               | ---               | ---               | ---               | ---              
-16:00 - 16:50   | ---               | CC3AOC(John)      | ---               | CC3AOC(John)      | CC3PI1(Linus)    
+16:00 - 16:50   | ---               | MA3CA(Vanderlea)  | ---               | CC3AOC(Agnaldo)   | ---              
 
 --- GRADE HORÁRIA - PERÍODO 4 ---
 Horário         | Segunda           | Terça             | Quarta            | Quinta            | Sexta            
 -------------------------------------------------------------------------------------------------------------------
-07:30 - 08:20   | CC4PO(Donald)     | CC4RC(Tim)        | CC4PO(Donald)     | CC4IHC(Tim)       | CC4LBD(Edgar)    
-08:20 - 09:10   | ---               | CC4IHC(Tim)       | ---               | CC4SO(Tim)        | MA4PE(Blaise)    
-09:10 - 10:00   | ---               | CC4SO(Tim)        | CC4LBD(Edgar)     | ---               | ---              
-11:00 - 11:50   | ---               | ---               | MA4PE(Blaise)     | ---               | ---              
-13:00 - 13:50   | ---               | ---               | ---               | CC4RC(Tim)        | ---              
+07:30 - 08:20   | CC4PO(Franck)     | CC4SO(Davi)       | CC4LBD(Giovani)   | CC4RC(Davi)       | ---              
+08:20 - 09:10   | CC4PO(Franck)     | CC4IHC(Davi)      | CC4LBD(Giovani)   | CC4SO(Davi)       | MA4PE(Evandro)   
+09:10 - 10:00   | ---               | CC4IHC(Davi)      | ---               | ---               | CC4RC(Davi)      
+11:00 - 11:50   | ---               | ---               | MA4PE(Evandro)    | ---               | ---              
+13:00 - 13:50   | ---               | ---               | ---               | ---               | ---              
 13:50 - 14:40   | ---               | ---               | ---               | ---               | ---              
 14:40 - 15:30   | ---               | ---               | ---               | ---               | ---              
 16:00 - 16:50   | ---               | ---               | ---               | ---               | ---              
