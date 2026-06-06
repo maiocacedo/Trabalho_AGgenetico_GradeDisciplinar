@@ -65,5 +65,6 @@ def inicializar_individuo():
         if aula.professor and aula.professor.disponibilidade:
             ind.append(random.choice(aula.professor.disponibilidade))
         else:
-            ind.append(random.randint(0, 39))
+            ind.append(random.randint(0, 49))
     return ind
+

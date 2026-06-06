@@ -1,65 +1,65 @@
-Mapeamento de Horários (Slots de 0 a 39)
+Mapeamento de Horários (Slots de 0 a 49)
 Cada número representa um período de 50 minutos:
 
 SEGUNDA-FEIRA
 Slot 0: Segunda 07:30 - 08:20 (Manhã 1)
 Slot 1: Segunda 08:20 - 09:10 (Manhã 2)
 Slot 2: Segunda 09:10 - 10:00 (Manhã 3)
-Intervalo: 10:00 - 10:30 (Sem aulas)
-Intervalo Oficial: 10:30 - 11:00 (Sem aulas)
-Slot 3: Segunda 11:00 - 11:50 (Manhã 4)
+Intervalo Oficial: 10:00 - 10:20 (Sem aulas)
+Slot 3: Segunda 10:20 - 11:10 (Manhã 4)
+Slot 4: Segunda 11:10 - 12:00 (Manhã 5)
 ---------------------------------------
-Slot 4: Segunda 13:00 - 13:50 (Tarde 1)
-Slot 5: Segunda 13:50 - 14:40 (Tarde 2)
-Slot 6: Segunda 14:40 - 15:30 (Tarde 3)
-Intervalo Oficial: 15:30 - 16:00 (Sem aulas)
-Slot 7: Segunda 16:00 - 16:50 (Tarde 4)
+Slot 5: Segunda 13:00 - 13:50 (Tarde 1)
+Slot 6: Segunda 13:50 - 14:40 (Tarde 2)
+Slot 7: Segunda 14:40 - 15:30 (Tarde 3)
+Intervalo Oficial: 15:30 - 15:50 (Sem aulas)
+Slot 8: Segunda 15:50 - 16:40 (Tarde 4)
+Slot 9: Segunda 16:40 - 17:30 (Tarde 5)
 
 TERÇA-FEIRA
-Slot 8: Terça 07:30 - 08:20
-Slot 9: Terça 08:20 - 09:10
-Slot 10: Terça 09:10 - 10:00
-Slot 11: Terça 11:00 - 11:50
-Slot 12: Terça 13:00 - 13:50
-Slot 13: Terça 13:50 - 14:40
-Slot 14: Terça 14:40 - 15:30
-Slot 15: Terça 16:00 - 16:50
+Slot 10: Terça 07:30 - 08:20
+Slot 11: Terça 08:20 - 09:10
+Slot 12: Terça 09:10 - 10:00
+Slot 13: Terça 10:20 - 11:10
+Slot 14: Terça 11:10 - 12:00
+Slot 15: Terça 13:00 - 13:50
+Slot 16: Terça 13:50 - 14:40
+Slot 17: Terça 14:40 - 15:30
+Slot 18: Terça 15:50 - 16:40
+Slot 19: Terça 16:40 - 17:30
 
 QUARTA-FEIRA
-Slot 16: Quarta 07:30 - 08:20
-Slot 17: Quarta 08:20 - 09:10
-Slot 18: Quarta 09:10 - 10:00
-Slot 19: Quarta 11:00 - 11:50
-Slot 20: Quarta 13:00 - 13:50
-Slot 21: Quarta 13:50 - 14:40
-Slot 22: Quarta 14:40 - 15:30
-Slot 23: Quarta 16:00 - 16:50
+Slot 20: Quarta 07:30 - 08:20
+Slot 21: Quarta 08:20 - 09:10
+Slot 22: Quarta 09:10 - 10:00
+Slot 23: Quarta 10:20 - 11:10
+Slot 24: Quarta 11:10 - 12:00
+Slot 25: Quarta 13:00 - 13:50
+Slot 26: Quarta 13:50 - 14:40
+Slot 27: Quarta 14:40 - 15:30
+Slot 28: Quarta 15:50 - 16:40
+Slot 29: Quarta 16:40 - 17:30
 
 QUINTA-FEIRA
-Slot 24: Quinta 07:30 - 08:20
-Slot 25: Quinta 08:20 - 09:10
-Slot 26: Quinta 09:10 - 10:00
-Slot 27: Quinta 11:00 - 11:50
-Slot 28: Quinta 13:00 - 13:50
-Slot 29: Quinta 13:50 - 14:40
-Slot 30: Quinta 14:40 - 15:30
-Slot 31: Quinta 16:00 - 16:50
+Slot 30: Quinta 07:30 - 08:20
+Slot 31: Quinta 08:20 - 09:10
+Slot 32: Quinta 09:10 - 10:00
+Slot 33: Quinta 10:20 - 11:10
+Slot 34: Quinta 11:10 - 12:00
+Slot 35: Quinta 13:00 - 13:50
+Slot 36: Quinta 13:50 - 14:40
+Slot 37: Quinta 14:40 - 15:30
+Slot 38: Quinta 15:50 - 16:40
+Slot 39: Quinta 16:40 - 17:30
 
 SEXTA-FEIRA
-Slot 32: Sexta 07:30 - 08:20
-Slot 33: Sexta 08:20 - 09:10
-Slot 34: Sexta 09:10 - 10:00
-Slot 35: Sexta 11:00 - 11:50
-Slot 36: Sexta 13:00 - 13:50
-Slot 37: Sexta 13:50 - 14:40
-Slot 38: Sexta 14:40 - 15:30
-Slot 39: Sexta 16:00 - 16:50
-
--------------------------------------------------------------
-Mapeamento de Aulas Duplas (slots de 50 min consecutivos no mesmo dia):
-Pares Válidos:
-- Manhã: (0, 1), (1, 2)
-- Tarde: (4, 5), (5, 6)
-No total, existem 4 pares possíveis por dia, totalizando 20 pares na semana.
-As aulas de 2 créditos (ou parcelas de 4/6/12 créditos) serão alocadas nesses pares.
-As aulas de 1 crédito (sobras de disciplinas com 3 créditos) serão alocadas individualmente em qualquer slot livre de 0 a 39.
+Slot 40: Sexta 07:30 - 08:20
+Slot 41: Sexta 08:20 - 09:10
+Slot 42: Sexta 09:10 - 10:00
+Slot 43: Sexta 10:20 - 11:10
+Slot 44: Sexta 11:10 - 12:00
+Slot 45: Sexta 13:00 - 13:50
+Slot 46: Sexta 13:50 - 14:40
+Slot 47: Sexta 14:40 - 15:30
+Slot 48: Sexta 15:50 - 16:40
+Slot 49: Sexta 16:40 - 17:30

@@ -1,51 +1,59 @@
 === RESULTADO DA OTIMIZAÇÃO ===
-Melhor Fitness Alcançado: 0.500000
+Melhor Fitness Alcançado: 0.714286
 Gerações Executadas: 800
 
 --- GRADE HORÁRIA - PERÍODO 1 ---
 Horário         | Segunda           | Terça             | Quarta            | Quinta            | Sexta            
 -------------------------------------------------------------------------------------------------------------------
-07:30 - 08:20   | ---               | ---               | CC1AED1(Leiliane) | ---               | ---              
-08:20 - 09:10   | CC1AED1(Leiliane) | ---               | MA1LM(Diego)      | ---               | ---              
-09:10 - 10:00   | CC1AED1(Leiliane) | CC1ICC(Giani)     | MA1FM(Diego)      | CC1MBD(Giani)     | ---              
-11:00 - 11:50   | MA1FM(Diego)      | ---               | ---               | CC1MBD(Giani)     | HU1LA(Vera)      
+07:30 - 08:20   | CC1AED1(Leiliane) | ---               | ---               | ---               | ---              
+08:20 - 09:10   | CC1AED1(Leiliane) | ---               | MA1FM(Diego)      | ---               | HU1LA(Vera)      
+09:10 - 10:00   | MA1FM(Diego)      | ---               | CC1AED1(Leiliane) | CC1MBD(Giani)     | ---              
+10:20 - 11:10   | MA1LM(Diego)      | ---               | ---               | CC1ICC(Giani)     | ---              
+11:10 - 12:00   | ---               | CC1MBD(Giani)     | ---               | ---               | ---              
 13:00 - 13:50   | ---               | ---               | ---               | ---               | ---              
 13:50 - 14:40   | ---               | ---               | ---               | ---               | ---              
 14:40 - 15:30   | ---               | ---               | ---               | ---               | ---              
-16:00 - 16:50   | ---               | ---               | ---               | ---               | ---              
+15:50 - 16:40   | ---               | ---               | ---               | ---               | ---              
+16:40 - 17:30   | ---               | ---               | ---               | ---               | ---              
 
 --- GRADE HORÁRIA - PERÍODO 2 ---
 Horário         | Segunda           | Terça             | Quarta            | Quinta            | Sexta            
 -------------------------------------------------------------------------------------------------------------------
-07:30 - 08:20   | CC2AED2(Leiliane) | CC2POO(Giovani)   | OPHRHL(Paula)     | MA2MA(Vanderlea)  | OPHCC(Luana)     
-08:20 - 09:10   | OPHL(Paula)       | OPHE(Alexandre) / OPHMAS(Roberto) | OPHL2(Paula)      | CC2CLD(Agnaldo)   | OPHIT1(Vera)     
-09:10 - 10:00   | ---               | OPHGIT(Alexandre) | CC2POO(Giovani)   | CC2ER(Wellington) | OPHIT2(Vera)     
-11:00 - 11:50   | ---               | MA2MA(Vanderlea)  | ---               | ---               | ---              
+07:30 - 08:20   | OPHRHL(Paula)     | CC2CLD(Agnaldo)   | OPHE(Alexandre) / OPHL(Paula) / OPHMAS(Roberto) | OPHHCA(Arlete)    | ---              
+08:20 - 09:10   | ---               | ---               | OPHGIT(Alexandre) / OPHL2(Paula) | OPHLG(Arlete)     | ---              
+09:10 - 10:00   | CC2AED2(Leiliane) | MA2MA(Vanderlea)  | ---               | CC2CLD(Agnaldo)   | OPHCC(Luana) / OPHIT1(Vera)
+10:20 - 11:10   | CC2ER(Wellington) | CC2POO(Giovani)   | CC2AED2(Leiliane) | MA2MA(Vanderlea)  | OPHIT2(Vera)     
+11:10 - 12:00   | ---               | CC2POO(Giovani)   | ---               | OPHMP(Wellington) | ---              
 13:00 - 13:50   | ---               | ---               | ---               | CC2ER(Wellington) | ---              
-13:50 - 14:40   | OPHMP(Wellington) | OPHHCA(Arlete)    | ---               | ---               | OPHFE(Carlos)    
-14:40 - 15:30   | ---               | OPHLG(Arlete)     | CC2AED2(Leiliane) | ---               | ---              
-16:00 - 16:50   | ---               | CC2CLD(Agnaldo)   | ---               | ---               | ---              
+13:50 - 14:40   | ---               | ---               | ---               | ---               | ---              
+14:40 - 15:30   | ---               | ---               | ---               | ---               | ---              
+15:50 - 16:40   | ---               | ---               | ---               | ---               | ---              
+16:40 - 17:30   | ---               | ---               | ---               | ---               | OPHFE(Carlos)    
 
 --- GRADE HORÁRIA - PERÍODO 3 ---
 Horário         | Segunda           | Terça             | Quarta            | Quinta            | Sexta            
 -------------------------------------------------------------------------------------------------------------------
-07:30 - 08:20   | CC3ES(Wellington) | CC3PI1(Giani)     | ---               | CC3AED3(Thiago)   | ---              
-08:20 - 09:10   | ---               | CC3PI1(Giani)     | ---               | MA3CA(Vanderlea)  | CC3PI1(Giani)    
-09:10 - 10:00   | ---               | CC3AED3(Thiago)   | ---               | CC3AOC(Agnaldo)   | CC3PI1(Giani)    
-11:00 - 11:50   | ---               | CC3PI1(Giani)     | MA3AL(Diego)      | CC3AOC(Agnaldo)   | CC3PI1(Giani)    
-13:00 - 13:50   | CC3ES(Wellington) | ---               | ---               | ---               | ---              
+07:30 - 08:20   | ---               | ---               | MA3AL(Diego)      | CC3AED3(Thiago)   | CC3PI1(Giani)    
+08:20 - 09:10   | ---               | CC3AOC(Agnaldo)   | ---               | CC3AOC(Agnaldo)   | CC3PI1(Giani)    
+09:10 - 10:00   | CC3ES(Wellington) | CC3PI1(Giani)     | ---               | MA3CA(Vanderlea)  | CC3PI1(Giani)    
+10:20 - 11:10   | ---               | CC3PI1(Giani)     | ---               | CC3AOC(Agnaldo)   | ---              
+11:10 - 12:00   | CC3ES(Wellington) | CC3AED3(Thiago)   | ---               | CC3PI1(Giani)     | ---              
+13:00 - 13:50   | ---               | ---               | ---               | ---               | ---              
 13:50 - 14:40   | ---               | ---               | ---               | ---               | ---              
 14:40 - 15:30   | ---               | ---               | ---               | ---               | ---              
-16:00 - 16:50   | ---               | MA3CA(Vanderlea)  | ---               | CC3AOC(Agnaldo)   | ---              
+15:50 - 16:40   | ---               | ---               | ---               | MA3CA(Vanderlea)  | ---              
+16:40 - 17:30   | ---               | ---               | ---               | ---               | ---              
 
 --- GRADE HORÁRIA - PERÍODO 4 ---
 Horário         | Segunda           | Terça             | Quarta            | Quinta            | Sexta            
 -------------------------------------------------------------------------------------------------------------------
-07:30 - 08:20   | CC4PO(Franck)     | CC4SO(Davi)       | CC4LBD(Giovani)   | CC4RC(Davi)       | ---              
-08:20 - 09:10   | CC4PO(Franck)     | CC4IHC(Davi)      | CC4LBD(Giovani)   | CC4SO(Davi)       | MA4PE(Evandro)   
-09:10 - 10:00   | ---               | CC4IHC(Davi)      | ---               | ---               | CC4RC(Davi)      
-11:00 - 11:50   | ---               | ---               | MA4PE(Evandro)    | ---               | ---              
-13:00 - 13:50   | ---               | ---               | ---               | ---               | ---              
+07:30 - 08:20   | CC4PO(Franck)     | CC4RC(Davi)       | CC4PO(Franck)     | ---               | ---              
+08:20 - 09:10   | ---               | ---               | ---               | ---               | MA4PE(Evandro)   
+09:10 - 10:00   | ---               | CC4LBD(Giovani)   | MA4PE(Evandro)    | ---               | ---              
+10:20 - 11:10   | ---               | ---               | ---               | CC4IHC(Davi)      | CC4SO(Davi)      
+11:10 - 12:00   | ---               | ---               | CC4LBD(Giovani)   | CC4IHC(Davi)      | CC4RC(Davi)      
+13:00 - 13:50   | ---               | CC4SO(Davi)       | ---               | ---               | ---              
 13:50 - 14:40   | ---               | ---               | ---               | ---               | ---              
 14:40 - 15:30   | ---               | ---               | ---               | ---               | ---              
-16:00 - 16:50   | ---               | ---               | ---               | ---               | ---              
+15:50 - 16:40   | ---               | ---               | ---               | ---               | ---              
+16:40 - 17:30   | ---               | ---               | ---               | ---               | ---              

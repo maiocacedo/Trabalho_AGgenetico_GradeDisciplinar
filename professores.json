@@ -1,103 +1,92 @@
 [
   {
     "nome": "Leiliane",
-    "disponibilidade": [0, 1, 2, 4, 5, 6, 16, 17, 18, 20, 21, 22],
+    "disponibilidade": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
     "disciplinas": ["CC1AED1", "CC2AED2"]
   },
   {
     "nome": "Thiago",
-    "disponibilidade": [8, 9, 10, 12, 13, 14, 24, 25, 26, 28, 29, 30],
+    "disponibilidade": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39],
     "disciplinas": ["CC3AED3"]
   },
   {
     "nome": "Giovani",
-    "disponibilidade": [8, 9, 10, 16, 17, 18],
+    "disponibilidade": [10, 11, 12, 13, 14, 20, 21, 22, 23, 24],
     "disciplinas": ["CC4LBD", "CC2POO"]
   },
   {
     "nome": "Wellington",
-    "disponibilidade": [0, 1, 2, 4, 5, 6, 24, 25, 26, 28, 29, 30],
+    "disponibilidade": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39],
     "disciplinas": ["CC2ER", "CC3ES", "OPHMP"]
   },
   {
     "nome": "Agnaldo",
-    "disponibilidade": [
-      8, 9, 10, 11, 12, 13, 14, 15, 24, 25, 26, 27, 28, 29, 30, 31
-    ],
+    "disponibilidade": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39],
     "disciplinas": ["CC2CLD", "CC3AOC"]
   },
   {
     "nome": "Franck",
-    "disponibilidade": [0, 1, 2, 4, 5, 6, 16, 17, 18, 20, 21, 22],
+    "disponibilidade": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
     "disciplinas": ["CC4PO"]
   },
   {
     "nome": "Davi",
-    "disponibilidade": [
-      8, 9, 10, 12, 13, 14, 24, 25, 28, 29, 32, 33, 34, 36, 37, 38
-    ],
+    "disponibilidade": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49],
     "disciplinas": ["CC4IHC", "CC4RC", "CC4SO"]
   },
   {
     "nome": "Vera",
-    "disponibilidade": [0, 1, 2, 3, 4, 5, 6, 7, 32, 33, 34, 35, 36, 37, 38, 39],
+    "disponibilidade": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49],
     "disciplinas": ["HU1LA", "OPHIT1", "OPHIT2"]
   },
   {
     "nome": "Paula",
-    "disponibilidade": [0, 1, 16, 17],
+    "disponibilidade": [0, 1, 2, 3, 4, 20, 21, 22, 23, 24],
     "disciplinas": ["OPHL", "OPHL2", "OPHRHL"]
   },
   {
     "nome": "Diego",
-    "disponibilidade": [0, 1, 2, 3, 4, 5, 6, 7, 16, 17, 18, 19, 20, 21, 22, 23],
+    "disponibilidade": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
     "disciplinas": ["MA1FM", "MA1LM", "MA3AL"]
   },
   {
     "nome": "Vanderlea",
-    "disponibilidade": [
-      8, 9, 10, 11, 12, 13, 14, 15, 24, 25, 26, 27, 28, 29, 30, 31
-    ],
+    "disponibilidade": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39],
     "disciplinas": ["MA2MA", "MA3CA"]
   },
   {
     "nome": "Evandro",
-    "disponibilidade": [
-      16, 17, 18, 19, 20, 21, 22, 23, 32, 33, 34, 35, 36, 37, 38, 39
-    ],
+    "disponibilidade": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49],
     "disciplinas": ["MA4PE"]
   },
   {
     "nome": "Giani",
-    "disponibilidade": [
-      8, 9, 10, 11, 12, 13, 14, 15, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34,
-      35, 36, 37, 38, 39
-    ],
+    "disponibilidade": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49],
     "disciplinas": ["CC1ICC", "CC3PI1", "CC1MBD"]
   },
   {
     "nome": "Alexandre",
-    "disponibilidade": [8, 9, 10, 11],
+    "disponibilidade": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
     "disciplinas": ["OPHE", "OPHGIT"]
   },
   {
     "nome": "Arlete",
-    "disponibilidade": [12, 13, 14, 15],
+    "disponibilidade": [30, 31, 32, 33, 34, 35, 36, 37, 38, 39],
     "disciplinas": ["OPHHCA", "OPHLG"]
   },
   {
     "nome": "Luana",
-    "disponibilidade": [32, 33, 34, 35],
+    "disponibilidade": [40, 41, 42, 43, 44],
     "disciplinas": ["OPHCC"]
   },
   {
     "nome": "Carlos",
-    "disponibilidade": [36, 37, 38, 39],
+    "disponibilidade": [45, 46, 47, 48, 49],
     "disciplinas": ["OPHFE"]
   },
   {
     "nome": "Roberto",
-    "disponibilidade": [8, 9],
+    "disponibilidade": [20, 21, 22, 23, 24],
     "disciplinas": ["OPHMAS"]
   }
 ]

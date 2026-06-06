@@ -68,7 +68,7 @@ def calcular_fitness(cromossomo):
                     penalidades += len(intersection) * PESO_HARD
 
     for horario in cromossomo:
-        if (horario % 8) >= 4:
+        if (horario % 10) >= 5:
             penalidades += PESO_SOFT
 
     prof_day_horarios = {}
@@ -76,8 +76,8 @@ def calcular_fitness(cromossomo):
         aula = aulas[idx]
         prof = aula.professor
         if prof:
-            day = horario // 8
-            turn = 0 if (horario % 8 < 4) else 1
+            day = horario // 10
+            turn = 0 if (horario % 10 < 5) else 1
             key = (prof.nome, day, turn)
             if key not in prof_day_horarios:
                 prof_day_horarios[key] = set()
@@ -95,9 +95,10 @@ def calcular_fitness(cromossomo):
     for idx, horario in enumerate(cromossomo):
         aula = aulas[idx]
         periodo = aula.disciplina.periodo
-        day = horario // 8
+        day = horario // 10
         key = (periodo, day)
         period_day_counts[key] = period_day_counts.get(key, 0) + 1
+
 
     for p in range(1, 5):
         for day in range(5):

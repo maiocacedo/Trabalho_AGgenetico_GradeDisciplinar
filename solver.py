@@ -12,7 +12,7 @@ def mutacao(individuo, taxa_mutacao):
             if aula.professor and aula.professor.disponibilidade:
                 novo_ind[i] = random.choice(aula.professor.disponibilidade)
             else:
-                novo_ind[i] = random.randint(0, 39)
+                novo_ind[i] = random.randint(0, 49)
     return novo_ind
 
 def main():
@@ -37,11 +37,13 @@ def main():
         "07:30 - 08:20",
         "08:20 - 09:10",
         "09:10 - 10:00",
-        "11:00 - 11:50",
+        "10:20 - 11:10",
+        "11:10 - 12:00",
         "13:00 - 13:50",
         "13:50 - 14:40",
         "14:40 - 15:30",
-        "16:00 - 16:50"
+        "15:50 - 16:40",
+        "16:40 - 17:30"
     ]
 
     relatorio_linhas = []
@@ -57,13 +59,13 @@ def main():
 
     for p in range(1, 5):
         registrar(f"--- GRADE HORÁRIA - PERÍODO {p} ---")
-        grade = [["---" for _ in range(5)] for _ in range(8)]
+        grade = [["---" for _ in range(5)] for _ in range(10)]
         
         for idx, horario in enumerate(melhor_ind):
             aula = aulas[idx]
             if aula.disciplina.periodo == p:
-                dia_idx = horario // 8
-                horario_idx = horario % 8
+                dia_idx = horario // 10
+                horario_idx = horario % 10
                 prof_nome = aula.professor.nome.split()[0] if aula.professor else "SemProf"
                 val = f"{aula.disciplina.codigo}({prof_nome})"
                 if grade[horario_idx][dia_idx] == "---":
